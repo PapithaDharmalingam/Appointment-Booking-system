@@ -1,4 +1,4 @@
-Appointment-Booking-system
+APPOINTMENT BOOKING SYSTEM
 
 MODULES DESCRIPTION
 
